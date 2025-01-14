@@ -20,5 +20,7 @@
 
 ## Some rewards 🥇
 ![document](https://github.com/user-attachments/assets/6c75185e-e906-43f5-b6a9-fff07b35f748)
+[сертификат RS School.pdf](https://github.com/user-attachments/files/18412674/RS.School.pdf)
+
 
 
