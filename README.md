@@ -19,8 +19,11 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ## Some rewards 🥇
-![document](https://github.com/user-attachments/assets/6c75185e-e906-43f5-b6a9-fff07b35f748)
-[сертификат RS School.pdf](https://github.com/user-attachments/files/18412674/RS.School.pdf)
+<img src="https://github.com/user-attachments/assets/6c75185e-e906-43f5-b6a9-fff07b35f748" alt="Document Image" width="200" height="100%">
+<img src="https://github.com/user-attachments/assets/6c36a6f2-064f-4015-abeb-537cb97cded2" alt="Document Image" width="200" height="100%">
+
+
+
 
 
 
