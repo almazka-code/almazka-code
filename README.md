@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Olga!
 
+I am а Frontend Developer with commercial development experience. I approach tasks responsibly — I keep deadlines and write quality code. I can work in a team and understand other people's code. I regularly improve my knowledge of React and learn new technologies to improve myself as a specialist.
+
 ## My technology stack 🤺
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,9 +24,13 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Some rewards 🥇
-<img src="https://github.com/user-attachments/assets/6c75185e-e906-43f5-b6a9-fff07b35f748" alt="Document Image" width="200" height="100%">
-<img src="https://github.com/user-attachments/assets/6c36a6f2-064f-4015-abeb-537cb97cded2" alt="Document Image" width="200" height="100%">
+<img src="https://github.com/user-attachments/assets/6c75185e-e906-43f5-b6a9-fff07b35f748" alt="Letter of recommendation from Antipoff Group" width="200" height="100%">
+<img src="https://github.com/user-attachments/assets/6c36a6f2-064f-4015-abeb-537cb97cded2" alt="RS School Certificate" width="200" height="100%">
+<img src="https://github.com/user-attachments/assets/f1713878-8408-438c-b65e-45ad6affde77" alt="FreeCodeCamp Certificate" width="200" height="100%">
 
+## Some statistics 🏆
+
+[![codewars](https://www.codewars.com/users/almazka/badges/large)](https://www.codewars.com/users/almazka)  
 
 
 
