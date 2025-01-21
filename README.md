@@ -24,16 +24,21 @@ I am а Frontend Developer with commercial development experience. I approach ta
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ## Some rewards 🥇
-<div style="display: flex; align-items: flex-start;"> 
-  <div style="margin-right: 10px;">
-    <img src="https://github.com/user-attachments/assets/6c75185e-e906-43f5-b6a9-fff07b35f748" alt="Letter of recommendation from Antipoff Group" width="200">
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/6c36a6f2-064f-4015-abeb-537cb97cded2" alt="RS School Certificate" width="200" style="display: block; margin-bottom: 10px;">
-    <img src="https://github.com/user-attachments/assets/f1713878-8408-438c-b65e-45ad6affde77" alt="FreeCodeCamp Certificate" width="200" style="display: block;">
-  </div>
-</div>
-
+<table style="width:100%; height: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; height: 100%; vertical-align: middle; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/6c75185e-e906-43f5-b6a9-fff07b35f748" alt="Letter of recommendation from Antipoff Group" width="200"/>
+    </td>
+    <td style="width: 50%; height: 100%;">
+      <div style="height: 50%; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/6c36a6f2-064f-4015-abeb-537cb97cded2" alt="RS School Certificate" width="200"/>
+      </div>
+      <div style="height: 50%; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/f1713878-8408-438c-b65e-45ad6affde77" alt="FreeCodeCamp Certificate" width="200"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## Some statistics 🏆
 
