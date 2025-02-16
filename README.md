@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Olga!
 
-I am а Frontend Developer with commercial development experience. I approach tasks responsibly — I keep deadlines and write quality code. I can work in a team and understand other people's code. I regularly improve my knowledge of React and learn new technologies to improve myself as a specialist.
+I am а Frontend Developer with commercial development experience. I approach tasks responsibly — I keep deadlines and write quality code. I can work in a team, independently, and understand other people's code. I regularly improve my knowledge of React and learn new technologies to improve myself as a specialist.
 
 ## My technology stack 🤺
 
